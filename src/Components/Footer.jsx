@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
-    <footer class="bg-blue-200 py-8">
-      <div class="container mx-auto grid grid-cols-1 md:grid-cols-4 gap-4 text-center md:text-left text-sm text-gray-800">
+    <footer class="bg-[#7fc8ff] py-8">
+      <div class="container mx-28 grid grid-cols-1 md:grid-cols-4 gap-4 text-center md:text-left text-sm text-gray-800">
         {/* Eventick Logo and Description */}
         <div>
           <div className="flex items-center">
@@ -105,7 +105,7 @@ const Footer = () => {
       </div>
 
       {/* Footer Bottom  */}
-      <div class="border-t border-gray-400 mx-40 mt-8 pt-4 text-center text-[#4C4D8B]">
+      <div class="border-t border-gray-600 mx-40 mt-8 pt-4 text-center text-[#4C4D8B]">
         <p>Copyright © 2024 Pyrus group</p>
       </div>
     </footer>
