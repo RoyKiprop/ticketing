@@ -1,4 +1,5 @@
 import Discover from "./Components/Discover";
+import FAQSection from "./Components/FAQ";
 import FeaturedEventCard from "./Components/Featured";
 import Footer from "./Components/Footer";
 import JoinBrandsSection from "./Components/JoinBrand";
@@ -12,6 +13,7 @@ const App = () => {
       <FeaturedEventCard />
       <Purchase />
       <Discover />
+      <FAQSection />
       <JoinBrandsSection />
       <Footer />
     </>
