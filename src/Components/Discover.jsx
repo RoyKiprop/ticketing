@@ -2,8 +2,8 @@ import React from "react";
 
 const Discover = () => {
   return (
-    <section class="bg-[#7FC7FF] py-12">
-      <div class="container mx-28  grid grid-cols-1 md:grid-cols-2  space-y-6 md:space-y-0">
+    <section class="bg-[#7FC7FF] py-24">
+      <div class="container mx-28 flex space-x-56 space-y-6 md:space-y-0">
         {/* Left Section*/}
         <div class="text-center md:text-left">
           <h2 class="text-2xl md:text-3xl font-bold text-black">
